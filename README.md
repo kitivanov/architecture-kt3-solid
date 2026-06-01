@@ -8,7 +8,7 @@
 ## Запуск
 
 ```bash
-python main.py
+python solid.py
 ```
 
 ## Результат работы
